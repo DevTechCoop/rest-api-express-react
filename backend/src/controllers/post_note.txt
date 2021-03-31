@@ -1,0 +1,7 @@
+POST http://127.0.0.1:3000/api/notes HTTP/1.1
+
+{
+"tilte":"Titulo uno",
+"content":"El contenido es el cuerpo de la noticia",
+"author":"Matias" 
+}
